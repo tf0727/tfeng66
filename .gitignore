@@ -1,0 +1,27 @@
+.venv/
+.uv-cache/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.egg-info/
+state/
+*.log
+data/acceptance_live.json
+frontend/test-results/
+frontend/playwright-report/
+node_modules/
+frontend/dist/
+
+# Local SkillHub installation files (not part of this application)
+skillhub-kit/
+skillhub-kit.tar.gz
+skillhub-install.sh
+install-skillhub-windows.ps1
+简历交付/

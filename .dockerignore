@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv
+.git
+**/__pycache__
+frontend/node_modules
+frontend/dist
+data/*.db
+state
+tests
+data/acceptance_live.json

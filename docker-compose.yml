@@ -1,0 +1,9 @@
+services:
+  api:
+    build: .
+    ports:
+      - "127.0.0.1:8888:8888"
+    env_file:
+      - .env
+    volumes:
+      - ./state:/app/state

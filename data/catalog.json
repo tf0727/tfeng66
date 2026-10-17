@@ -1,0 +1,5 @@
+[
+  {"id":"DEMO-PY","name":"Python 能力训练示例","direction":"Python","audience":"希望了解 Python 的学习者","duration":"示例节奏 8 周，以人工确认安排为准","outline":["语法基础","数据处理","自动化实践"],"source":"Demo 人工录入，非真实招生政策","demo":true},
+  {"id":"DEMO-JAVA","name":"Java 能力训练示例","direction":"Java","audience":"希望了解后端开发的学习者","duration":"示例节奏 12 周，以人工确认安排为准","outline":["面向对象","数据库","Web 服务"],"source":"Demo 人工录入，非真实招生政策","demo":true},
+  {"id":"DEMO-WEB","name":"前端能力训练示例","direction":"前端","audience":"希望了解网页开发的学习者","duration":"示例节奏 8 周，以人工确认安排为准","outline":["HTML/CSS","JavaScript","Vue"],"source":"Demo 人工录入，非真实招生政策","demo":true}
+]

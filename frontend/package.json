@@ -1,0 +1,1 @@
+{"type":"module","scripts":{"dev":"vite","build":"vite build","test:e2e":"playwright test"},"dependencies":{"@vitejs/plugin-vue":"latest","pinia":"latest","typescript":"latest","vite":"latest","vue":"latest"},"devDependencies":{"@playwright/test":"^1.64.0"}}
